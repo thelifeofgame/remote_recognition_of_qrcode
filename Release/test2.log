@@ -1,0 +1,13 @@
+﻿生成启动时间为 2017-5-3 4:45:06。
+     1>项目“C:\Documents and Settings\Administrator\桌面\二维码净识别部分\test2\test2\test2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\test2.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>C:\Program Files\Microsoft Visual Studio 10.0\VC\atlmfc\include\afx.h(24): fatal error C1189: #error :  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+     1>已完成生成项目“C:\Documents and Settings\Administrator\桌面\二维码净识别部分\test2\test2\test2.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.92

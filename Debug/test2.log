@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/5/4 8:51:12。
+     1>项目“F:\二维码净识别部分\二维码净识别部分\test2\test2\test2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D NOMINMAX /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ewrPosition.cpp
+         ewrPosition.cpp
+     1>e:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\二维码净识别部分\二维码净识别部分\test2\Debug\test2.exe" /INCREMENTAL /NOLOGO opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_nonfree248d.lib opencv_objdetect248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_videostab248d.lib "../lib/libzbar-0.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\二维码净识别部分\二维码净识别部分\test2\Debug\test2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\二维码净识别部分\二维码净识别部分\test2\Debug\test2.lib" /MACHINE:X86 Debug\EwmPosition.obj
+         Debug\ewrPosition.obj
+         Debug\main.obj
+         Debug\stdafx.obj
+         test2.vcxproj -> F:\二维码净识别部分\二维码净识别部分\test2\Debug\test2.exe
+     1>已完成生成项目“F:\二维码净识别部分\二维码净识别部分\test2\test2\test2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.08
